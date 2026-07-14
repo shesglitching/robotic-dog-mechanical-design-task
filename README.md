@@ -59,7 +59,7 @@ https://github.com/PetoiCamp/OpenCat-Quadruped-Robot
 
 # Design Inspiration from the Greyhound
 
-When I read that the project was about designing a robotic dog, the first sentence that came to my mind was—excuse the joke 😅—  
+When I read that the project was about designing a robotic dog, the first sentence that came to my mind was—excuse the joke—  
 **"All the sighthounds in the valley, get out!"**
 
 For those who are not familiar with the breed, the **Greyhound** belongs to the **Sighthound** group, the same group as the Saluki, although it is a different breed. It has a unique body structure; it is one of the fastest and most efficient dog breeds for running, reaching speeds of around **72 km/h**. It has excellent acceleration, an athletic build, and a streamlined body that resembles a rocket. It also has a flexible skeletal structure and thick paw pads that provide a balance between protection and agility while helping absorb shocks.
